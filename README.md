@@ -1,2 +1,0 @@
-# MakeChange
-Change Calculator program
